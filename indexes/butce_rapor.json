@@ -1,0 +1,21 @@
+{
+  "title": "Bütçe Gerçekleşme Raporu İndeksi",
+  "document_id": "butce_rapor_2012",
+  "summary": "Bu indeks, Çevre ve Şehircilik Bakanlığı'nın 2012 yılına ait Performans Esaslı Bütçe Gerçekleşme Raporu verilerini içerir.",
+  "nodes": [
+    {
+      "node_id": "ND-001-Sim",
+      "page": 1,
+      "title": "Giriş ve Özet",
+      "node_summary": "Raporun amacı ve kapsamı özetlenmiştir.",
+      "content": "Bu doküman, 2012 yılının ilk üç aylık bütçe gerçekleşme verilerini sunmaktadır."
+    },
+    {
+      "node_id": "ND-002-Sim",
+      "page": 5,
+      "title": "Mali Tablolar",
+      "node_summary": "Performans göstergeleri ve bütçe kalemlerine ait tablolar yer almaktadır.",
+      "content": "Operasyonel bütçe gerçekleşmesi, hedeflenen %85'in üzerinde, %88 olarak gerçekleşmiştir."
+    }
+  ]
+}
